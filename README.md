@@ -1,2 +1,2 @@
 # studyingSQL
-somente coisas de SQL
+repor dedicated to SQL related studies
